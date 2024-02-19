@@ -1,6 +1,6 @@
 # flutter_hw1
 
-A new Flutter project.
+HSE Flutter course. Homework 1
 
 ## Getting Started
 
